@@ -11,4 +11,4 @@ MATLAB ready-to-use code.
 
 #
 # Reference
-Moradi, M., Lu, M., Molen, J., Arabi, b. (2026). Remote Sensing Estimation of Chlorophyll-a and Total Suspended Matter Concentrations in Highly Turbid Coastal Waters based on Gaussian Spectral Decomposition. Journal of ..., v. ?, pp.
+Moradi, M., Lu, M., Molen, J., Arabi, b. (2026). A Gaussian Spectral Decomposition Framework for Remote Sensing Estimation of Chlorophyll-a and Suspended Matter Retrieval in Highly Turbid Coastal Waters. Journal of ..., v. ?, pp.
